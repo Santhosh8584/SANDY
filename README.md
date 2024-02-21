@@ -15,7 +15,6 @@
 
   <h3 align="left">Reach Me:</h3>
         <p align="left">
-        <a href="https://www.linkedin.com/in/santhosh-santhosh-425b1b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
-        <a href="https://www.instagram.com/alone_sandy_85?utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_021" height="30" width="40" /></a>
-        <a href="https://www.youtube.com/channel/UC6hawWyF9Xq1x3lEJ7yBqTw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="unlucky_coder21" height="30" width="40" /> </a>
+        <a href="https:www.linkedin.com/in/santhosh-santhosh-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-v-s" height="30" width="40" /></a>
+        <a href="https://www.instagram.com/alone_sandy_85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="midhun_021" height="30" width="40" /></a>
         </p>
